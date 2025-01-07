@@ -1,4 +1,4 @@
-;; BEGIN CHAPTER ONE CODE
+;; BEGIN CHAPTER 0 CODE
 (define pie 3.14)
 (define a-radius 8.4)
 (define an-area
@@ -49,4 +49,4 @@
      ((zero? m) n)
      (else (add1 (add n (sub1 m)))))))
 
-;; END CHAPTER ONE CODE
+;; END CHAPTER 0 CODE
