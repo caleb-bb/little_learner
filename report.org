@@ -1,0 +1,33 @@
+#+title: Report
+#+author: Caleb Beers
+
+* Review of The Little Learner
+The Little Learner is a book on deep learning. This is a summary of The Little Learner.
+
+** Scheme, Lisp, and Functional Programming: Why And How
+
+** Linear Equations For Deep Learning
+*** From lines to neurons
+*** Target functions
+
+** WTF Is A Tensor?
+
+*** This is what an effing tensor is
+*** Extending operations to tensors
+See Interlude V for some of this
+*** Shape
+
+** Approximation In Deep Learning
+*** Successive Approximation
+*** Gradients
+
+** Hyperparameters
+*** WTF is a hyper parameter and why do we have them?
+*** How do we implement them in the context of Scheme and functional programming more generally?
+
+** Gradient Descent
+*** The Skeleton Of Gradient Descent
+*** Problems With Gradient Descent (and solutions thereto)
+See Chapters 8 and 9 + Interlude IV for some of this
+
+** Neurons To Layers
