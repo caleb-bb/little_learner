@@ -31,3 +31,9 @@ See Interlude V for some of this
 See Chapters 8 and 9 + Interlude IV for some of this
 
 ** Neurons To Layers
+*** Neurons As Functions
+*** Layers As Functions
+*** Shapelists
+*** Blocks
+
+**
