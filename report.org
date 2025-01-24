@@ -30,10 +30,10 @@ See Interlude V for some of this
 *** Problems With Gradient Descent (and solutions thereto)
 See Chapters 8 and 9 + Interlude IV for some of this
 
-** Neurons To Layers
+** Neurons To Networks
 *** Neurons As Functions
 *** Layers As Functions
 *** Shapelists
 *** Blocks
 
-**
+** Encoding
